@@ -1,0 +1,37 @@
+# Random Password Generator using Python
+
+## Objective
+The objective of this project is to develop a beginner-level command-line random password generator using Python. 
+The application generates secure and random passwords based on user-defined criteria such as password length and character types. 
+This project helps in understanding randomization, input validation, and logical programming.
+
+---
+
+## Steps Performed
+1. Installed Python and set up the development environment.
+2. Created a Python script to generate random passwords.
+3. Defined different character sets such as:
+   - Letters (uppercase and lowercase)
+   - Numbers
+   - Symbols
+4. Took user input for password length.
+5. Added input validation to ensure correct and positive values.
+6. Allowed users to select the type of characters to include in the password.
+7. Used the random module to generate secure and random passwords.
+8. Displayed the generated password to the user.
+9. Tested the program with different combinations to verify correctness.
+
+---
+
+## Tools and Technologies Used
+- Python
+- Random module
+- Command Prompt / Terminal
+- Basic Python functions
+
+---
+
+## Outcome
+The project successfully generates strong and customizable random passwords based on user preferences. 
+It improves understanding of core Python concepts such as loops, conditions, randomization, user input, and problem-solving. 
+This project also builds a foundation for developing more secure and advanced applications in the future.
